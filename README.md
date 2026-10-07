@@ -1,2 +1,2 @@
 # Research-Academic-Writing
-My research academic writing articles.
+My research academic writing papers.
